@@ -64,12 +64,9 @@ version may cause errors.
    - `getData.m`: Get the  structure parameters that meet the condition
 
    - `hfssExecute.m`: Invoke HFSS to execute
-   
-   
-      - `makeScript.m`: Generate the HFSS execution scripts
-   
-      - `islegal.m`: Determine whether the parameters are under the restriction  
-   
+   - `makeScript.m`: Generate the HFSS execution scripts
+   - `islegal.m`: Determine whether the parameters are under the restriction  
+
 3. eye.sab : eyeball model
 
 
