@@ -68,11 +68,8 @@ version may cause errors.
    
       - `makeScript.m`: Generate the HFSS execution scripts
    
-   
-   
       - `islegal.m`: Determine whether the parameters are under the restriction  
    
-
 3. eye.sab : eyeball model
 
 
@@ -95,5 +92,4 @@ Some issues may arise when running SmartLens, including but not limited to :
 
 - When the HFSS model reports the error 'port non-planar', you may need to fine-tune the port structure parameters;
 - When matlab import data error, you need to add a 30 sec break after export the parameters.  
-
 
